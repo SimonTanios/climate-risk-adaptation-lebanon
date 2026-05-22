@@ -1,0 +1,13 @@
+scenario,scenario_code,period,climate_stress_class,class_label,cropland_area_ha
+SSP2-4.5,ssp245,2030s,1,Low projected stress,86885.50200495138
+SSP2-4.5,ssp245,2050s,2,Mild projected stress,30511.48300549023
+SSP2-4.5,ssp245,2050s,3,Moderate projected stress,56374.018999460946
+SSP2-4.5,ssp245,2080s,2,Mild projected stress,4207.871196887254
+SSP2-4.5,ssp245,2080s,3,Moderate projected stress,78965.21521992689
+SSP2-4.5,ssp245,2080s,4,High projected stress,3712.4155881372567
+SSP5-8.5,ssp585,2030s,1,Low projected stress,38160.46325529421
+SSP5-8.5,ssp585,2030s,2,Mild projected stress,48725.038749657004
+SSP5-8.5,ssp585,2050s,2,Mild projected stress,83173.08641681408
+SSP5-8.5,ssp585,2050s,3,Moderate projected stress,3712.4155881372567
+SSP5-8.5,ssp585,2080s,3,Moderate projected stress,803.6580649509805
+SSP5-8.5,ssp585,2080s,4,High projected stress,86081.8439400004
